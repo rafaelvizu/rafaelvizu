@@ -1,5 +1,5 @@
-- 🔭 I’m currently working on front-end
-- 🌱 I’m currently learning react.js
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/rafael-vizu/)
-- 😄 Pronouns: ele/dele
+- 🔭 No momento estou trabalhando no desenvolvimento front-end
+- 🌱 Atualmente estou aprendendo react.js
+- 📫 Contato: [Linkedin](https://www.linkedin.com/in/rafael-vizu/)
+- 😄 Pronomes: ele/dele
 
