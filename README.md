@@ -1,6 +1,8 @@
 # Rafael Vizú - Frontend developer
 
 [![Rafael Vizú GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelvizu&count_private=true&theme=radical&hide=contribs,prs)](https://github.com/rafaelvizu?tab=repositories)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelvizu&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 &nbsp;
 
 ## > Operating Systems
