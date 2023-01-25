@@ -22,6 +22,7 @@
 [![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://pt.wikipedia.org/wiki/TypeScript)
 [![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://pt.wikipedia.org/wiki/MongoDB)
 [![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://pt.wikipedia.org/wiki/C_Sharp)
+
 [![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://pt.wikipedia.org/wiki/MySQL)
 
 &nbsp;
