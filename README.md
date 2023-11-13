@@ -1,4 +1,4 @@
-# Rafael Vizú - Frontend developer
+# Rafael Vizú - backend developer
 
 ## > Operating Systems
 
