@@ -25,8 +25,8 @@ Sou **Engenheiro de Dados** focado em transformar dados em produtos confiáveis,
 - **Orquestração:** Airflow, Prefect
 - **Processamento:** Spark, Databricks
 - **Cloud:** AWS, GCP, Azure
-- **Banco de dados:** PostgreSQL, MySQL, BigQuery, Snowflake
-- **Ferramentas:** dbt, Docker, Git, Kafka
+- **Banco de dados:** PostgreSQL, MySQL, BigQuery
+- **Ferramentas:** dbt, Docker, Git
 
 ## Em que estou me aprofundando
 
