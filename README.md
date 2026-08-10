@@ -37,8 +37,7 @@ Sou **Engenheiro de Dados** focado em transformar dados em produtos confiáveis,
 
 ## Contato
 
-- LinkedIn: em breve
-- Email: seu-email@exemplo.com
+- LinkedIn: [Rafael Vizú](https://www.linkedin.com/in/rafael-vizu/)
 
 ---
 
