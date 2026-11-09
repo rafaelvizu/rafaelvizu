@@ -1,44 +1,23 @@
-# Olá, eu sou o Rafael 👋
+# Hi, I'm Rafael Vizú 👋
+### Senior Data Engineer & Full-Stack Developer (Laravel/Filament)
 
-Sou **Engenheiro de Dados** focado em transformar dados em produtos confiáveis, escaláveis e fáceis de consumir.
-
-## Sobre mim
-
-- 📊 Trabalho com engenharia, integração e modelagem de dados
-- ⚙️ Construo pipelines confiáveis para batch e streaming
-- ☁️ Atuo com plataformas modernas de dados e cloud
-- 🧪 Gosto de automatizar processos, validar qualidade e melhorar observabilidade
-- 🚀 Interesse especial em performance, arquitetura e boas práticas de dados
-
-## O que eu faço
-
-- Ingestão e orquestração de dados
-- ETL / ELT
-- Data Warehousing e Data Lake
-- Modelagem dimensional e analítica
-- Qualidade, governança e linhagem de dados
-- Monitoramento e alertas de pipelines
-
-## Tecnologias
-
-- **Linguagens:** Python, SQL
-- **Orquestração:** Airflow, Prefect
-- **Processamento:** Spark, Databricks
-- **Cloud:** AWS, GCP, Azure
-- **Banco de dados:** PostgreSQL, MySQL, BigQuery
-- **Ferramentas:** dbt, Docker, Git
-
-## Em que estou me aprofundando
-
-- Arquiteturas de dados modernas
-- DataOps e observabilidade
-- Streaming e processamento em tempo real
-- Governança e segurança de dados
-
-## Contato
-
-- LinkedIn: [Rafael Vizú](https://www.linkedin.com/in/rafael-vizu/)
+I build scalable Data Pipelines, Modern Data Warehouses, and Embedded Analytics Systems for companies worldwide.
 
 ---
 
-*Este README está em construção e será atualizado com meus projetos, experiências e aprendizados.*
+### 🛠️ Core Tech Stack
+- **Data Engineering & Platform:** dbt, Apache Spark, Airflow, Airbyte, MinIO, Microsoft Fabric
+- **Cloud Infrastructure:** GCP (BigQuery, Cloud Storage, Pub/Sub), AWS (Redshift, S3, Glue, EMR, Athena)
+- **Web & SaaS:** Laravel, Filament PHP, Livewire, Tailwind CSS, Power BI Embedded
+
+---
+
+### 📌 Featured Architectural Projects
+- 🔹 **[Modern Data Stack Pipeline]**: End-to-end data pipeline using Airflow, dbt, and GCP BigQuery with automated tests.
+- 🔹 **[Embedded Analytics B2B Portal]**: Multi-tenant admin portal built with Laravel + Filament & Power BI Embedded.
+
+---
+
+### 📫 Connect & Work With Me
+- 🌐 **Async Work Style:** Available for contracts & freelance via GitHub PRs, Jira & Slack/Discord.
+- 💼 **LinkedIn:** [linkedin.com/in/rafael-vizu](https://br.linkedin.com/in/rafael-vizu)
